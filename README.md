@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Rajasegar
+
+I am a Frontend developer passionate about Open source and building some cool stuff for the web.
 
 ![Rajasegar's github stats](https://github-readme-stats.vercel.app/api?username=rajasegar)
 
